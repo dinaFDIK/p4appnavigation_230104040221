@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.P4AppNavigation_230104040221" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+    </style>
+
+    <style name="Theme.Material3.Light.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
